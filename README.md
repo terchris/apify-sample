@@ -29,9 +29,9 @@ apify_storage
 |-- default
 ```
 Inside the default folder you find the following files
-SDK_CRAWLER_STATISTICS_0.json
-SDK_SESSION_POOL_STATE.json
-SDK_start-urls-REQUEST_LIST_REQUESTS.bin
+* SDK_CRAWLER_STATISTICS_0.json
+* SDK_SESSION_POOL_STATE.json
+* SDK_start-urls-REQUEST_LIST_REQUESTS.bin
 
 The files are never deleted. You must manually delete them every time you debug. If you do not delete the files you will get the state from the first time you run your program.
 
@@ -49,6 +49,8 @@ The purge should be able to take a parameter so that when setting the APIFY_LOCA
 ```
 await Apify.utils.purge("my-local-storage-dir");
 ```
+
+#### workaround
 
 
 ## APIFY_LOCAL_STORAGE_DIR in .env file is ignored
