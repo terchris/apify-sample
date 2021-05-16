@@ -2,6 +2,7 @@
 
 This is a simplefied version of the simplest apify example found here https://sdk.apify.com/docs/examples/cheerio-crawler
 
+
 I will here point out the following challenges when working locally 
 
 1) When debugging in vs code you must manually delete files otherwise you get unpredictable errors
@@ -11,6 +12,10 @@ I will here point out the following challenges when working locally
 2.1) Suggested solution and workaround
 
 
+You can test it in gitpod 
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/terchris/apify-sample)
+
+Just clic the link and then click the debug buttn to start debugging.
 
 ## When debugging in vs code you must manually delete files otherwise you get unpredictable errors
 When debugging you will get errors like:
