@@ -2,17 +2,12 @@
 
 This is a simplefied version of the simplest apify example found here https://sdk.apify.com/docs/examples/cheerio-crawler
 
-* Bullet list
-      * Nested bullet
-            * Sub-nested bullet etc
-* Bullet list item 2
-
 I will here point out the following challenges when working locally 
 
 * When debugging in vs code you must manually delete files otherwise you get unpredictable errors
-      * Suggested solution and workaround
+  * Suggested solution and workaround
 * APIFY_LOCAL_STORAGE_DIR in .env file is ignored
-      * Suggested solution and workaround
+  * Suggested solution and workaround
 
 
 You can test it in gitpod.  Here is a full dev environment with vs code running in the browser.
