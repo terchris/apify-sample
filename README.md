@@ -5,19 +5,16 @@ This is a simplefied version of the simplest apify example found here https://sd
 
 I will here point out the following challenges when working locally 
 
-1) When debugging in vs code you must manually delete files otherwise you get unpredictable errors
-
-1.1) Suggested solution and workaround
-
-2) APIFY_LOCAL_STORAGE_DIR in .env file is ignored
-
-2.1) Suggested solution and workaround
+* When debugging in vs code you must manually delete files otherwise you get unpredictable errors
+      * Suggested solution and workaround
+* APIFY_LOCAL_STORAGE_DIR in .env file is ignored
+      * Suggested solution and workaround
 
 
-You can test it in gitpod 
+You can test it in gitpod.  Here is a full dev environment with vs code running in the browser.
 [![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-ready--to--code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/terchris/apify-sample)
 
-Just clic the link and then click the debug buttn to start debugging.
+Just click the link and then click the debug button to start debugging.
 
 ## When debugging in vs code you must manually delete files otherwise you get unpredictable errors
 When debugging you will get errors like:
