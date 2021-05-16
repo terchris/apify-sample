@@ -2,6 +2,6 @@
 	"name": "apify-sample",
 	"version": "0.0",
 	"buildTag": "latest",
-	"env": null,
+	"Xenv": null,
 	"template": "example_hello_world"
 }
