@@ -1,8 +1,8 @@
-# The simplest apify
+# Problems when debugging apify in vs code
 
 This is a simplefied version of the simplest apify example found here https://sdk.apify.com/docs/examples/cheerio-crawler
 
-I will here point out the following challenges when working locally 
+I will here point out the following challenges when working and debugging locally 
 
 * When debugging in vs code you must manually delete files otherwise you get unpredictable errors
   * Suggested solution and workaround
@@ -54,7 +54,7 @@ await Apify.utils.purge("my-local-storage-dir");
 ```
 
 #### workaround
-
+Hardcode deletion of folder "apify_storage" using Node.js File System Module
 
 ## APIFY_LOCAL_STORAGE_DIR in .env file is ignored
 According to the documentation you can change the name of the folder "apify_storage" to something else by adding the following line to the .env file
@@ -67,8 +67,13 @@ WARN  Neither APIFY_LOCAL_STORAGE_DIR nor APIFY_TOKEN environment variable is se
 
 ### Suggested solution and workaround
 I suggest that it must be possible to set the name of the folder "apify_storage" in the code.
-The log level can be set in .env variable and it can be overridden in code 
-```log.setLevel(log.LEVELS.DEBUG); ```
-Same should be possible for APIFY_LOCAL_STORAGE_DIR
+The log level can be set in .env variable and it can be overridden in code like this
+```
+log.setLevel(log.LEVELS.DEBUG); 
+```
+I suggest that the utils gets a function to set the APIFY_LOCAL_STORAGE_DIR Something like:
+```
+await Apify.utils.setLocalStorageDir("my-local-storage-dir");
+```
 
 
