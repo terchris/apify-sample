@@ -1,0 +1,150 @@
+{
+  "usableSessionsCount": 9,
+  "retiredSessionsCount": 0,
+  "sessions": [
+    {
+      "id": "session_0DvyBBY8JU",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:31:42.762Z",
+      "createdAt": "2021-05-16T19:41:42.762Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_OdHlQzl2IX",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:31:42.806Z",
+      "createdAt": "2021-05-16T19:41:42.806Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_U6tZJGnGy4",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:31:42.820Z",
+      "createdAt": "2021-05-16T19:41:42.820Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_rmdhLaiqeN",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:32:10.064Z",
+      "createdAt": "2021-05-16T19:42:10.064Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_FnvCsugVMD",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:32:10.108Z",
+      "createdAt": "2021-05-16T19:42:10.108Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_hZPkUL9cFi",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:32:10.119Z",
+      "createdAt": "2021-05-16T19:42:10.119Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_U1fL875IfS",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:33:04.004Z",
+      "createdAt": "2021-05-16T19:43:04.004Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_DQ9w1qGyei",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:33:04.049Z",
+      "createdAt": "2021-05-16T19:43:04.049Z",
+      "usageCount": 1,
+      "errorScore": 0
+    },
+    {
+      "id": "session_pfoXyB8Lj2",
+      "cookieJar": {
+        "version": "tough-cookie@4.0.0",
+        "storeType": "MemoryCookieStore",
+        "rejectPublicSuffixes": true,
+        "cookies": []
+      },
+      "userData": {},
+      "maxErrorScore": 3,
+      "errorScoreDecrement": 0.5,
+      "expiresAt": "2021-05-16T20:33:04.061Z",
+      "createdAt": "2021-05-16T19:43:04.061Z",
+      "usageCount": 1,
+      "errorScore": 0
+    }
+  ]
+}

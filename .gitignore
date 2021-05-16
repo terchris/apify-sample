@@ -1,5 +1,5 @@
 #--- apify-sample start
-apify_storage
+#apify_storage
 .DS_Store
 #--- apify-sample end
 # Logs
