@@ -6,9 +6,11 @@ This is a simplefied version of the simplest apify example found here https://sd
 I will here point out the following challenges when working locally 
 
 1) When debugging in vs code you must manually delete files otherwise you get unpredictable errors
+
 1.1) Suggested solution and workaround
 
 2) APIFY_LOCAL_STORAGE_DIR in .env file is ignored
+
 2.1) Suggested solution and workaround
 
 
