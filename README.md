@@ -2,6 +2,10 @@
 
 This is a simplefied version of the simplest apify example found here https://sdk.apify.com/docs/examples/cheerio-crawler
 
+* Bullet list
+      * Nested bullet
+            * Sub-nested bullet etc
+* Bullet list item 2
 
 I will here point out the following challenges when working locally 
 
